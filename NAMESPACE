@@ -1,0 +1,3 @@
+import("RcppOctave")
+
+export("sparseFPCA")

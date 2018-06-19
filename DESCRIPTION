@@ -1,0 +1,10 @@
+Package: funcyOctave
+Type: Package
+Title: Regularization for sparse curves
+Version: 0.8
+Date: 2015-09-17
+Author: Christina Yassouridis <c_ya02@yahoo.de>, Bitao Liu, Fang Yao, Hans-Georg Mueller, Jane-Ling Wang
+Maintainer: Christina Yassouridis <c_ya02@yahoo.de>
+Description: Performs regularization for curves that were measured on a sparse grid. It is based on a functional principal component analysis by conditional estimation (PACE).
+License: GPL-2
+Imports: RcppOctave
